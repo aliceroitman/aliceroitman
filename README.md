@@ -3,6 +3,7 @@
 Biologist with a master's degree on Ecology (both by Universidade Federal do Rio Grande do Sul - UFRGS). Landscape and data analyst, currently working as Environmental Analyst at [Instituto Curicaca](https://curicaca.org.br/) and as a Technical and Scientific Assistant at [Landscape Ecology Lab](https://www.instagram.com/lecopaiufrgs/). Passionate about conservation, sustainability, and /statistics 🤓
 
 💾 Languages and Softwares
+
 <img 
     align="left" 
     alt="Python"
