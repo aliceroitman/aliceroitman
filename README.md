@@ -67,3 +67,12 @@ Biologist with a master's degree on Ecology (both by Universidade Federal do Rio
     style="padding-right: 10px;" 
     src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGISOnline.png" 
 />
+<img 
+    align="left" 
+    alt="Google Earth Engine"
+    title="Google Earth Engine" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" 
+/>
+
