@@ -54,8 +54,8 @@ Biologist with a master's degree on Ecology (both by Universidade Federal do Rio
 />
 <img 
     align="left" 
-    alt="ArcPro"
-    title="ArcPro" 
+    alt="ArcGIS Pro"
+    title="ArcGIS Pro" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" 
